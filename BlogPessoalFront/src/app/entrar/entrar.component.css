@@ -1,0 +1,7 @@
+#img-bg{
+    background-image: url('../../assets/Img/FotoCadastro.png');
+    min-height: 800px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
